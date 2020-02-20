@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "N4P9V5GGUL.com.rent.haosi",
+                "paths": [ "/wxshare/*"]
+            }
+        ]
+    }
+}
